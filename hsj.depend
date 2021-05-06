@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1590348015 source:e:\sdl\headsoccerjump\hsj\button.cpp
+	"Button.h"
+
+1590348015 e:\sdl\headsoccerjump\hsj\button.h
+	"Game_Base.h"
+	"LTexture.h"
+
+1620117854 e:\sdl\headsoccerjump\hsj\game_base.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<ctime>
+
+1590348015 e:\sdl\headsoccerjump\hsj\ltexture.h
+	"Game_Base.h"
+
+1590348015 source:e:\sdl\headsoccerjump\hsj\character.cpp
+	"Character.h"
+
+1590348015 e:\sdl\headsoccerjump\hsj\character.h
+	"LTexture.h"
+
+1590348015 source:e:\sdl\headsoccerjump\hsj\enemy.cpp
+	"Enemy.h"
+
+1590348015 e:\sdl\headsoccerjump\hsj\enemy.h
+	"LTexture.h"
+
+1590348015 source:e:\sdl\headsoccerjump\hsj\game_base.cpp
+	"Game_Base.h"
+
+1620239394 source:e:\sdl\headsoccerjump\hsj\game_utils.cpp
+	"Game_Utils.h"
+
+1590348015 e:\sdl\headsoccerjump\hsj\game_utils.h
+	"Game_Base.h"
+	"Button.h"
+	"Enemy.h"
+	"Character.h"
+
+1590348015 source:e:\sdl\headsoccerjump\hsj\ltexture.cpp
+	"LTexture.h"
+
+1620239431 source:e:\sdl\headsoccerjump\hsj\main.cpp
+	"Game_Utils.h"
+	"LTexture.h"
+	"Button.h"
+	"Character.h"
+	"Enemy.h"
+
